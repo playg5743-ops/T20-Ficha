@@ -1,0 +1,21 @@
+{
+  "name": "Ficha Tormenta 20 Beyond",
+  "short_name": "T20 Beyond",
+  "description": "Ficha de personagem interativa para Tormenta 20 com gerenciamento de recursos.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#8b0000",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/t20/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/t20/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
